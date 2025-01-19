@@ -19,4 +19,4 @@ Welcome to **HackRush 2024**, an exhilarating hackathon hosted by the Student Ac
 ### 8. LuminaRush: Real-Time Inferencing of ML Workloads
 ### 9. Robotics: A ROBORIG ADVENTURE
 
-Note: Detailed description and information give in document [Hackrush IITGN 2024](link)
+Note: Detailed description and information give in document [Hackrush IITGN 2024](https://github.com/GajananSD/Hackrush24/blob/main/Hackrush%20IITGN%202024.pdf)
